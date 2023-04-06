@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ramos
+ *
+ */
+module Yamaguchi {
+}
